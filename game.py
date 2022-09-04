@@ -16,7 +16,7 @@ asyncio.set_event_loop(loop)
 account = {}
 game_status = {}
 channel = {}
-bot = Bot(token='1/MTI3ODY=/C1bMmh345oOj5rhhPLuuoQ==')
+bot = Bot(token='')
 ban = {}
 
 try:
